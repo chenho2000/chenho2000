@@ -1,4 +1,4 @@
-### Hi there, I'm [Hongyu Chen](https://chenho2000.github.io/Personal-Website/) 👋
+### Hi there, I'm [Hongyu Chen](https://chenho2000.github.io) 👋
 
 I am currently pursuing a Master's degree in Data Science and Artificial Intelligence at the [University of Waterloo] (https://uwaterloo.ca/), Canada. Apart from that I am a data scientist at Transport Canada.
 
