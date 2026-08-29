@@ -1,15 +1,3 @@
-### Hi there, I'm [Hongyu Chen](https://chenho2000.github.io) 👋
-
-I am currently pursuing a Master's degree in Data Science and Artificial Intelligence at the University of Waterloo (https://uwaterloo.ca/), Canada. Apart from that I am a data scientist at Transport Canada.
-
-**My Research Interest**:
-- Machine learning
-- Data Base
-- Data Visualization
-- Deep learning
-- Artificial Intelligence
-- Computer Vision
-
 
 ## Skills:
 
@@ -81,16 +69,3 @@ I am currently pursuing a Master's degree in Data Science and Artificial Intelli
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## Connect with me:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/hongyu-chen-526861203/)
-
-</p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenho2000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hongyu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenho2000&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
